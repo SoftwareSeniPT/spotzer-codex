@@ -1,8 +1,8 @@
 # Workflows 
 
-
+![ss](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title image"= 200)
 ## Spotzer Website Build Workflow
-![process diagram v4](https://cloud.githubusercontent.com/assets/16644772/12260269/8ef3f74c-b94d-11e5-862f-3b583e0ca846.png "title" =516x140 :left)
+![process diagram v4](https://cloud.githubusercontent.com/assets/16644772/12260269/8ef3f74c-b94d-11e5-862f-3b583e0ca846.png)
 
 ### Preparation
 * SoftwareSeni Project Manager (PM) will communicate with Spotzer at the beginning of the project to discuss the Project requirements.
