@@ -1,6 +1,6 @@
 # Workflows 
 
-![ss](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![ss](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title of your image" =516x140)
 ## Spotzer Website Build Workflow
 ![process diagram v4](https://cloud.githubusercontent.com/assets/16644772/12260269/8ef3f74c-b94d-11e5-862f-3b583e0ca846.png)
 
