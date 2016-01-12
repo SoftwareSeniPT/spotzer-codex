@@ -18,27 +18,6 @@ var app = {
         name: 'Getting Started',
         file: 'getting-started.md'
     }, {
-        name: 'Frontend Dev',
-        file: 'frontend.md'
-    }, {
-        name: 'Graphic Design',
-        file: 'graphic-design.md'
-    }, {
-        name: 'Quality Assurance',
-        file: 'quality-assurance.md'
-    }, {
-        name: 'Wordpress',
-        file: 'wordpress.md'
-    }, {
-        name: 'PHP',
-        file: 'php.md'
-    }, {
-        name: 'CodeIgniter',
-        file: 'codeigniter.md'
-    }, {
-        name: 'Ruby',
-        file: 'ruby.md'
-    }, {
         name: 'Project Spotzer',
         file: 'project-spotzer.md'
     }, {
