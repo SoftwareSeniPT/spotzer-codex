@@ -3,7 +3,7 @@
 
 ## Spotzer Website Build Workflow
 ### Preparation
-* SoftwareSeni Project Manager (PM) will communicate with Spotzer at the beginning of the project to discuss the Project requirements. ... Adjustments to the theme (whether quote is needed)
+* SoftwareSeni Project Manager (PM) will communicate with Spotzer at the beginning of the project to discuss the Project requirements.    Adjustments to the theme (whether quote is needed)
 ** Wireframes and/or mockups for the pages that require adjustments
 ** Number of pages
 ** Number of products
