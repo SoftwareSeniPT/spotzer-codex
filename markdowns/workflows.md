@@ -15,17 +15,17 @@
 
 * Spotzer to provide all collateral including:
  * Wordpress Brief (usually has a name like : [project name] Wordpress Brief.pdf which has the following:
-Client details for website (website url, site name, address, contact details)
-Mockup
-Logo
-Color code (RGB)
-Font
-Images
-Sitemap
-Site Copy / Text assets / document that will be the content of the site
-SEO tags (keywords for global settings for yoast plugin)
-Products in excel with the following format
-Hosting details for where site will be launched
+    * Client details for website (website url, site name, address, contact details)
+    * Mockup
+    * Logo
+    * Color code (RGB)
+    * Font
+    * Images
+    * Sitemap
+    * Site Copy / Text assets / document that will be the content of the site
+    * SEO tags (keywords for global settings for yoast plugin)
+    * Products in excel with the following format
+    * Hosting details for where site will be launched
 Collateral will be added to Dropbox so the SS PM can download and add to our PM software
 
 
