@@ -20,7 +20,12 @@ var app = {
     }, {
         name: 'Project Spotzer',
         file: 'project-spotzer.md'
-    }, {
+    }, 
+    {
+        name: 'Workflows',
+        file: 'workflows.md'
+    },
+    {
         name: 'Contribute',
         link: 'https://github.com/SoftwareSeniPT/ss-codex'
     }],
