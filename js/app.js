@@ -27,7 +27,7 @@ var app = {
     },
     {
         name: 'Contribute',
-        link: 'https://github.com/SoftwareSeniPT/ss-codex'
+        link: 'https://github.com/SoftwareSeniPT/spotzer-codex'
     }],
     savedData: [], // keep the data after all markdowns are compiled
     template: {}, // keep template HTML
