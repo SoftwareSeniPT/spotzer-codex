@@ -28,4 +28,16 @@
     * Hosting details for where site will be launched
 Collateral will be added to Dropbox so the SS PM can download and add to our PM software
 
+### Guidelines for Dropbox folder
+* Always use the same Tree structure.
+* Always add Date of entry/approval and name in Folder and filename
+* On new Docs    /Designs, create a new folder, with the new date, and rename the old folder to OLD.
+* Make sure the Sitemap is in one excel sheet and visible at all time, for easy access.
+* Prepare the SEO/GA doc before the site goes live.
+* Please include a Gallery mock-up if possible.
+* Add a new Feedback folder.
+* Put images in the right folder Under "Photos" folder. Image for Homepage will be in "Photos/homepage" folder
+* Notify SoftwareSeni through support email if there is new file or file update added to dropbox with the link to the direct file
+* Images provided should be as much as possible the highest resolution possible.
+
 
