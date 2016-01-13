@@ -46,3 +46,8 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 ### Kick-off
 * PM and his team will ensure to understand the project expectations
 * PM and/or SDM will arrange the schedule of the new project and add it into the <a href="https://docs.google.com/spreadsheets/d/19_MFXqfqprCqtBTSnePmayuSQEDZQW3abTDxhIbpwzY/edit#gid=711110930" target="_blank">Project Update Spreadsheet</a>
+
+### Project Management tools
+* PM will create ticket in the Project Management Tool. <a href="http://projects.softwareseni.com" target="_blank">http://projects.softwareseni.com</a>
+* All tickets will be maintained inside the Project management tools
+
