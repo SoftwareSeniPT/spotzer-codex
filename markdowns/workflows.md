@@ -51,3 +51,20 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 * PM will create ticket in the Project Management Tool. <a href="http://projects.softwareseni.com" target="_blank">http://projects.softwareseni.com</a>
 * All tickets will be maintained inside the Project management tools
 
+### Website Setup
+* Developer will set the site up on a Demo URL eg spotzer.thatid.com/{site-code} including the base theme and any plugins
+* Developer will adjust the pages/menus based on Wireframes and/or Mockups. Developer performs their own QA after work is complete.
+* Content will be added by a SoftwareSeni resource to the website (pages, products, images etc)
+* Front-End Developer will adjust the site colours, images and icons which the developer only added default image or icon. They’ll also implement any frontend custom design elements into the site. Frontend Developer will QA their work after complete
+*If needed Content Integrator can do further adjustment so the text in lines are according to Mockup
+
+### QA Site (Functionality and design)
+* Do QA using this <a href="https://docs.google.com/spreadsheets/d/1TLfQargd3PyDfo1in9S-v9bialJa27pDPleI8aoNS14/edit#gid=1530176155" target="_blank">checklist</a>
+* Check all site functions meet the requirements as per project brief
+* Check all theme adjustment based on mockups and/or wireframes
+* Check the site in the following browsers Internet Explorer (IE) 10 +, Firefox, Google Chrome across normal desktop computers.
+* Check responsive websites will work and render on the following Mobile and Tablet using browser tool/emulator
+* Input all http://projects.softwareseni.com/
+* If the site is not ready sent back to dev team.
+* Complete tests using checklist include old bug follow-up to ensure all bugs have been fixed.
+* Decide whether site is ready to be Launched to the live site or not.
