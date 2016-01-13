@@ -121,10 +121,10 @@ Ensure there is enough white space and that identical widgets have the same marg
 ### YPNZ
 | URL        | ACRONYM / ID |           | URL       | ACRONYM / ID |
 | :------------------------------------ |:-------------:|:-------------:|:------------------------------------ |:-------------:|
-| [www.robsonenvironmental.co.nz](http://www.robsonenvironmental.co.nz/)  | ROB || [alpineaircon.co.nz](http://alpineaircon.co.nz/) | ACR |
-| [www.appliancecare.co.nz](http://www.appliancecare.co.nz)  | ACE |
-| [eastbaybuilders.co.nz](http://eastbaybuilders.co.nz)  | EBB |
-| [www.plumbedup.co.nz](http://plumbedup.co.nz) | PUP |
+
+|   | ACE |
+|  | EBB |
+|  | PUP |
 | [alpineaircon.co.nz](http://alpineaircon.co.nz/) | ACR |
 
 
@@ -154,21 +154,21 @@ Ensure there is enough white space and that identical widgets have the same marg
     <th class="tg-eqox">ID</th>
   </tr>
   <tr>
-    <td class="tg-031e">www.robsonenvironmental.co.nz</td>
+    <td class="tg-031e">[www.robsonenvironmental.co.nz](http://www.robsonenvironmental.co.nz/)</td>
     <td class="tg-s6z2">ROB</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">www.appliancecare.co.nz</td>
+    <td class="tg-031e">[www.appliancecare.co.nz](http://www.appliancecare.co.nz)</td>
     <td class="tg-s6z2">ACE</td>
   </tr>
   <tr>
-    <td class="tg-031e">eastbaybuilders.co.nz</td>
+    <td class="tg-031e">[eastbaybuilders.co.nz](http://eastbaybuilders.co.nz) </td>
     <td class="tg-s6z2">EBB</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">plumbedup.co.nz</td>
+    <td class="tg-031e">[www.plumbedup.co.nz](http://plumbedup.co.nz)</td>
     <td class="tg-s6z2">PUP</td>
   </tr>
   <tr>
-    <td class="tg-031e">alpineaircon.co.nz</td>
+    <td class="tg-031e">[alpineaircon.co.nz](http://alpineaircon.co.nz/)</td>
     <td class="tg-s6z2">ACR</td>
     <td class="tg-031e"></td>
     <td class="tg-031e">consol2003.nz</td>
