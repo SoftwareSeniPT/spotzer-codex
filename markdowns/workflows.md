@@ -26,7 +26,7 @@
     * SEO tags (keywords for global settings for yoast plugin)
     * Products in excel with the following format
     * Hosting details for where site will be launched
-Collateral will be added to Dropbox so the SS PM can download and add to our PM software
+Collateral will be added to Dropbox so the SS PM can collect what is needed to add to our PM tool.
 
 ### Guidelines for Dropbox folder
 * Always use the same Tree structure.
@@ -39,5 +39,7 @@ Collateral will be added to Dropbox so the SS PM can download and add to our PM 
 * Put images in the right folder Under "Photos" folder. Image for Homepage will be in "Photos/homepage" folder
 * Notify SoftwareSeni through support email if there is new file or file update added to dropbox with the link to the direct file
 * Images provided should be as much as possible the highest resolution possible.
+
+### Guide for Dropbox Collagteral 
 <img src="https://cloud.githubusercontent.com/assets/16644772/12260154/b5e72d66-b94c-11e5-84df-3ac78888be4b.png"/>
 
