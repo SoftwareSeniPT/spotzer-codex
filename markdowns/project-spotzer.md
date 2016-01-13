@@ -121,12 +121,12 @@ Ensure there is enough white space and that identical widgets have the same marg
 ### YPNZ
 | URL        | ACRONYM / ID |
 | :------------------------------------ |:-------------:|
-| www.robsonenvironmental.co.nz  | ROB |
-| www.appliancecare.co.nz  | ACE |
-| eastbaybuilders.co.nz  | EBB |
-| [www.plumbedup.co.nz](www.plumbedup.co.nz) | PUP |
+| [www.robsonenvironmental.co.nz](http://www.robsonenvironmental.co.nz/)  | ROB |
+| [www.appliancecare.co.nz](http://www.appliancecare.co.nz)  | ACE |
+| [eastbaybuilders.co.nz](http://eastbaybuilders.co.nz)  | EBB |
+| [www.plumbedup.co.nz](http://plumbedup.co.nz) | PUP |
+| [alpineaircon.co.nz](http://alpineaircon.co.nz/) | ACR |
 
-alpineaircon.co.nz
 
 consol2003.nz
 
