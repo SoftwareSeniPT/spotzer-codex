@@ -43,3 +43,6 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 ### Guide for Dropbox Collagteral 
 <img src="https://cloud.githubusercontent.com/assets/16644772/12260154/b5e72d66-b94c-11e5-84df-3ac78888be4b.png"/>
 
+### Kick-off
+* PM and his team will ensure to understand the project expectations
+* PM and/or SDM will arrange the schedule of the new project and add it into the <a href="https://docs.google.com/spreadsheets/d/19_MFXqfqprCqtBTSnePmayuSQEDZQW3abTDxhIbpwzY/edit#gid=711110930" target="_blank">Project Update Spreadsheet</a>
