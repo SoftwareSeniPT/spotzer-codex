@@ -159,73 +159,74 @@ Ensure there is enough white space and that identical widgets have the same marg
     <td class="tg-s6z2">PUP</td>
   </tr>
   <tr>
-    <td class="tg-031e">[alpineaircon.co.nz](http://alpineaircon.co.nz/)</td>
+    <td class="tg-031e">[alpineaircon.co.nz](http://alpineaircon.co.nz)</td>
     <td class="tg-s6z2">ACR</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">consol2003.nz</td>
+    <td class="tg-031e">[consol2003.nz](http://consol2003.nz)</td>
     <td class="tg-s6z2">CON</td>
   </tr>
   <tr>
-    <td class="tg-031e">qualitydoorsandstairs.co.nz</td>
+    <td class="tg-031e">[qualitydoorsandstairs.co.nz](http://qualitydoorsandstairs.co.nz)</td>
     <td class="tg-s6z2">QDS</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">www.rubbertrack.co.nz</td>
+    <td class="tg-031e">[www.rubbertrack.co.nz](http://www.rubbertrack.co.nz)</td>
     <td class="tg-s6z2">RON</td>
   </tr>
   <tr>
-    <td class="tg-031e">www.reininks.co.nz</td>
+    <td class="tg-031e">[www.reininks.co.nz](http://www.reininks.co.nz)</td>
     <td class="tg-s6z2">RIO</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">www.nationwidehousemovers.co.nz</td>
+    <td class="tg-031e">[www.nationwidehousemovers.co.nz](http://www.nationwidehousemovers.co.nz)</td>
     <td class="tg-s6z2">NHS</td>
   </tr>
   <tr>
-    <td class="tg-031e">www.copelandconstruction.co.nz</td>
+    <td class="tg-031e">[www.copelandconstruction.co.nz](http://www.copelandconstruction.co.nz)</td>
     <td class="tg-s6z2">CLC</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">stagehire.yellow.digital</td>
+    <td class="tg-031e">[stagehire.yellow.digital](http://stagehire.yellow.digital)</td>
     <td class="tg-s6z2">SHS</td>
   </tr>
   <tr>
-    <td class="tg-031e">gasman.yellow.digital</td>
+    <td class="tg-031e">[gasman.yellow.digital](http://gasman.yellow.digital)</td>
     <td class="tg-s6z2">GAS</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">kidstown.yellow.digital</td>
+    <td class="tg-031e">[kidstown.yellow.digital](http://kidstown.yellow.digital)</td>
     <td class="tg-s6z2">KTO</td>
   </tr>
   <tr>
-    <td class="tg-031e">donwoodsrelocations.yellow.digital</td>
+    <td class="tg-031e">[donwoodsrelocations.yellow.digital](http://donwoodsrelocations.yellow.digital)</td>
     <td class="tg-s6z2">DWR</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">www.digwork.co.nz</td>
+    <td class="tg-031e">[www.digwork.co.nz](http://www.digwork.co.nz)</td>
     <td class="tg-s6z2">DCL</td>
   </tr>
   <tr>
-    <td class="tg-031e">www.justblinds.co.nz</td>
+    <td class="tg-031e">[www.justblinds.co.nz](http://www.justblinds.co.nz)</td>
     <td class="tg-s6z2">JBL</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">manukaucitypanelbeaters.co.nz</td>
+    <td class="tg-031e">[manukaucitypanelbeaters.co.nz](http://manukaucitypanelbeaters.co.nz)</td>
     <td class="tg-s6z2">MAC</td>
   </tr>
   <tr>
-    <td class="tg-031e">www.northlandroofs.com</td>
+    <td class="tg-031e">[www.northlandroofs.com](http://www.northlandroofs.com)</td>
     <td class="tg-s6z2">NLR</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">hunuaautospares.co.nz</td>
+    <td class="tg-031e">[hunuaautospares.co.nz](http://hunuaautospares.co.nz)</td>
     <td class="tg-s6z2">HAS</td>
   </tr>
   <tr>
-    <td class="tg-031e">reroofingspecialist.yellow.digital</td>
+    <td class="tg-031e">[reroofingspecialist.yellow.digital](http://reroofingspecialist.yellow.digital)</td>
     <td class="tg-s6z2">RRS</td>
     <td class="tg-031e"></td>
-    <td class="tg-031e">cdlautoparts.yellow.digital</td>
+    <td class="tg-031e">[cdlautoparts.yellow.digital](http://cdlautoparts.yellow.digital)</td>
     <td class="tg-s6z2">CDL</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">www.cambrileaweedspraying.co.nz</td>
+    <td class="tg-yw4l">[www.cambrileaweedspraying.co.nz](http://www.cambrileaweedspraying.co.nz)</td>
     <td class="tg-baqh">CWS</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">annabelledental.co.nz</td>
+    <td class="tg-yw4l">[annabelledental.co.nz](http://annabelledental.co.nz)</td>
     <td class="tg-baqh">AND</td>
   </tr>
+  
 </table>
