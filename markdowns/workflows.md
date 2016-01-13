@@ -1,7 +1,7 @@
 # Workflows 
 
 ## Spotzer Website Build Workflow
-<img src="https://cloud.githubusercontent.com/assets/16644772/12260269/8ef3f74c-b94d-11e5-862f-3b583e0ca846.png" width="500" align="right"/>
+<img src="https://cloud.githubusercontent.com/assets/16644772/12260269/8ef3f74c-b94d-11e5-862f-3b583e0ca846.png" align="right"/>
 ### Preparation
 <img src="https://cloud.githubusercontent.com/assets/16644772/12260269/8ef3f74c-b94d-11e5-862f-3b583e0ca846.png" width="500" align="right"/>
 * SoftwareSeni Project Manager (PM) will communicate with Spotzer at the beginning of the project to discuss the Project requirements.
