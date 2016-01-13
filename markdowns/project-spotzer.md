@@ -125,7 +125,7 @@ Ensure there is enough white space and that identical widgets have the same marg
 | www.appliancecare.co.nz  | ACE |
 | eastbaybuilders.co.nz  | EBB |
 
-| [www.plumbedup.co.nz]www.plumbedup.co.nz | PUP |
+| [www.plumbedup.co.nz](www.plumbedup.co.nz) | PUP |
 
 alpineaircon.co.nz
 
