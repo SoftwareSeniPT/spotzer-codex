@@ -120,7 +120,7 @@ Ensure there is enough white space and that identical widgets have the same marg
 ## Project List
 ### YPNZ
 | URL        | ACRONYM / ID |
-| ------------- |:-------------:|
+| :---------------------------- |:-------------:|
 | www.robsonenvironmental.co.nz | ROB |
 | www.appliancecare.co.nz | ACE |
 | eastbaybuilders.co.nz | EBB |
