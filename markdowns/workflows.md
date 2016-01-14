@@ -81,7 +81,7 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 * QA will check the feedback work, and assign to developer if it’s not done and assign to PM when done
 * PM will deliver the project with updated changes to Spotzer.
 
->**Note:** At this point in time SoftwareSeni will classify the site as complete for billing purposes. See procedure on next page.
+<div class="info">**Note:** At this point in time SoftwareSeni will classify the site as complete for billing purposes. See procedure on next page.</div>
 
 ### Client Feedback
 * Spotzer send client’s feedback to SoftwareSeni using the Support e-mail
