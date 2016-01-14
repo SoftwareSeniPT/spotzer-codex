@@ -68,3 +68,17 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 * If the site is not ready sent back to dev team.
 * Complete tests using checklist include old bug follow-up to ensure all bugs have been fixed.
 * Decide whether site is ready to be Launched to the live site or not.
+
+### Delivering Project to Spotzer 
+* PM will perform a final check across the website and decide whether it is ready to be delivered to Spotzer
+* PM will deliver the project to Spotzer
+
+### Spotzer Feedback
+* Spotzer to provide feedback using the Support e-mail, around the delivered site and any issues/adjustments will be reported back to the SoftwareSeni PM.
+* SoftwareSeni PM will confirm what is needed and provided a timeframe for when these changes will be delivered.
+* PM will create ticket based on feedback
+* Developer will work on the feedback
+* QA will check the feedback work, and assign to developer if it’s not done and assign to PM when done
+* PM will deliver the project with updated changes to Spotzer.
+Note: At this point in time SoftwareSeni will classify the site as complete for billing purposes. See procedure on next page.
+{tip:title=Helpful Hint\}The tip.{tip}
