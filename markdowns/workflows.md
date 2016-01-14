@@ -107,3 +107,6 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
    * Spotzer to communicate these with PM through Support e-mail
    * PM to confirm understanding and timeframe for completion
    * PM to confirm to Spotzer once fixes have been made, QA’d and are complete
+
+## From Brief to Deployement
+<img src="/images/From%20Brief%20to%20Deployment%20-%20Diagram.png" align"center"/>
