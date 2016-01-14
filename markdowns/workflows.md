@@ -83,3 +83,27 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 
 >**Note:** At this point in time SoftwareSeni will classify the site as complete for billing purposes. See procedure on next page.
 
+### Client Feedback
+* Spotzer send client’s feedback to SoftwareSeni using the Support e-mail
+* SoftwareSeni PM will confirm what is needed and provided a timeframe for when these changes will be delivered.
+* PM will create ticket based on feedback
+* Developer will work on the feedback
+* QA will check the feedback work, and assign to developer if it’s not done and assign to PM when done
+* QA do browser optimization and mobile responsiveness check using this <a href="https://docs.google.com/spreadsheets/d/1LDFHXzf2gcetx_413XrC_OxfVJVGu55dRIYWuO5UYd4/edit#gid=585925721" target="_blank">checklist</a>
+* PM will deliver the project with updated changes to Spotzer.
+
+### Site launch
+* Ready To Live document is prepared by Spotzer PM and filled by Spotzer PM, SS PM, SS QA. Once finished SS PM will send Ready To Live to SS Server Admin
+* SS Server Admin will deploy the site to the production environment via its automated deployment scripts 
+* BE will move site from staging to production and notify PM when it is done
+* PM will adjust wp details for the live domain and assign Live QA ticket to SS QA
+* QA will do full check again based on <a href="https://docs.google.com/spreadsheets/d/1OgQmV-eeDGkPOThUs2uoUySmtPjJRK-xvQTT3egxVk8/edit#gid=831255455" target="_blank">live QA checklist</a>.
+* Spotzer will be responsible for DNS/A Record changes.
+
+### After sales service for Spotzer
+* SoftwareSeni will provide a warranty to rectify bugs for up to 4 weeks after site launch. This is limited to situations where the delivered site did not match the brief, and explicitly excludes problems caused by changes to content, code or configuration made by the client or Spotzer. The time and materials rate will be charged for fixes that were not covered by the warranty
+* Development site will stay on the SS dev server for a period of time and won’t be visible to search engines
+* The process for fixes are:
+   * Spotzer to communicate these with PM through Support e-mail
+   * PM to confirm understanding and timeframe for completion
+   * PM to confirm to Spotzer once fixes have been made, QA’d and are complete
