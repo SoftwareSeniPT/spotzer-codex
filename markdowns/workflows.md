@@ -80,5 +80,6 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 * Developer will work on the feedback
 * QA will check the feedback work, and assign to developer if it’s not done and assign to PM when done
 * PM will deliver the project with updated changes to Spotzer.
-Note: At this point in time SoftwareSeni will classify the site as complete for billing purposes. See procedure on next page.
-{tip:title=Helpful Hint\}The tip.{tip}
+
+>**Note:** At this point in time SoftwareSeni will classify the site as complete for billing purposes. See procedure on next page.
+
