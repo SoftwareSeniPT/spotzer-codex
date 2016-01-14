@@ -1156,7 +1156,7 @@ pre .regexp {
     opacity: 0.99;
 }
 
-.info, .success, .warning, .error, .validation {
+.info, .success, .warning, .error, .note {
 border: 1px solid;
 margin: 10px 0px;
 padding:15px 10px 15px 50px;
@@ -1182,4 +1182,9 @@ background-image: url('warning.png');
 color: #D8000C;
 background-color: #FFBABA;
 background-image: url('error.png');
+}
+.note {
+color: #00529B;
+background-color: #BDE5F8;
+background-image: url('note.png');
 }
