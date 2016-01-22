@@ -1,8 +1,9 @@
-# Spotzer AU
-## Basic
+# Spotzer Rate Card
+## Spotzer AU
+### Basic
 
-# Spotzer EU
-## Basic
+## Spotzer EU
+### Basic
 |  **Item / Description** | **Software Seni USD ** |
 |  ------ | :------ |
 |   |  |
