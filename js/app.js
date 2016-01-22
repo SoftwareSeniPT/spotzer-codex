@@ -17,10 +17,15 @@ var app = {
     markdowns: [{
         name: 'Getting Started',
         file: 'getting-started.md'
-    }, {
+    }, 
+    {
         name: 'Project Spotzer',
         file: 'project-spotzer.md'
-    }, 
+    },
+    {
+        name: 'Rate Card',
+        file: 'ratecard.md'
+    },
     {
         name: 'Workflows',
         file: 'workflows.md'
