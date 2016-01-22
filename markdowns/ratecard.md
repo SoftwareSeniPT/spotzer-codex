@@ -1,8 +1,8 @@
 # Spotzer Rate Card
-## Spotzer AU
+## Spotzer AU <img src="/images/spotzerAU_200px.png" align"bottom"/>
 ### Basic
 
-## Spotzer EU
+## Spotzer EU <img src="/images/spotzerEU_200px.png" align"bottom"/>
 ### Basic Package
 |  **Item / Description** | **Software Seni USD ** |
 |  ------ | :------ |
