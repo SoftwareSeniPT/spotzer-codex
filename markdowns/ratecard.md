@@ -3,7 +3,7 @@
 ### Basic
 
 ## Spotzer EU
-### Basic
+### Basic Package
 |  **Item / Description** | **Software Seni USD ** |
 |  ------ | :------ |
 |   |  |
@@ -21,6 +21,9 @@
 |  Additional Layout (assumes design is provided) | 204 |
 |  Note: Excludes any plugin adjustments/creation |  |
 |   |  |
+### eCommerce
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
 |  Woo Commerce extension with 10 products configured | 488 |
 |  Per eCom product:  | 3.75 |
 |  Per 10 eCom products:  | 22.5 |
@@ -34,6 +37,9 @@
 |  Per 5 - 15 pages migration: Per page | 3.75 |
 |  Per 16 - 40 pages migration: Per page | 3.5 |
 |   |  |
+### Other Services / Plugins
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
 |  Additional 3 plugins (from list)  | Hourly |
 |   |  |
 |  WordPress Multi-site  | Hourly |
@@ -54,7 +60,9 @@
 |  4 hours per month:  | just hourly rate above |
 |  8 hours per month:  | just hourly rate above |
 |   |  |
-|   |  |
+### Hosting
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
 |  Hosting | 12 per month |
 |  *24/7 Technical Support* |  |
 |  *Daily Backups* |  |
