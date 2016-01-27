@@ -38,76 +38,7 @@ var app = {
     {
         name: 'Contribute',
         link: 'https://github.com/SoftwareSeniPT/spotzer-codex'
-    }],
-    savedData: [], // keep the data after all markdowns are compiled
-    template: {}, // keep template HTML
-    checkList: [], // store the items in array
-    init: function($) {
-        app.dataLoadingAnimation();
-        app.animateCheckIconOnHover();
-        app.initTemplate();
-        app.changeTopic();
-        app.parseMarkDown();
-        app.readMoreDescription();
-        app.searchHandler();
-        app.showHideSubmenu();
-        app.updateMenuOnChecklistEvent();
-        app.menuScrollBarInit();
-        app.mobileHamburgerInit();
-    },
-    onResize: function() {
-
-    },
-    animateCheckIconOnHover: function() {
-
-        // Initiate require things to animate an SVG
-        $(document).on('svgsLoaded', function() {
-            $('.check').each(function(i, o) {
-                $(o).find('svg path').each(function(index, object) {
-                    var totalLength = object.getTotalLength(); // Total length of path
-
-                    $(object).attr('stroke-dasharray', totalLength + ' ' + totalLength);
-                    $(object).attr('stroke-dashoffset', 0);
-                    $(object).attr('class', 'path-' + index);
-
-                    // Save toal length data on SVG attribute
-                    $(object).attr('data-total', totalLength);
-                });
-            });
-=======
-  // Define all the markdown files here
-  markdowns: [{
-    name: 'Getting Started',
-    file: 'getting-started.md'
-  }, {
-    name: 'Frontend Dev',
-    file: 'frontend.md'
-  }, {
-    name: 'Graphic Design',
-    file: 'graphic-design.md'
-  }, {
-    name: 'Quality Assurance',
-    file: 'quality-assurance.md'
-  }, {
-    name: 'Wordpress',
-    file: 'wordpress.md'
-  }, {
-    name: 'PHP',
-    file: 'php.md'
-  }, {
-    name: 'CodeIgniter',
-    file: 'codeigniter.md'
-  }, {
-    name: 'Ruby',
-    file: 'ruby.md'
-  }, {
-    name: 'Project Spotzer',
-    file: 'project-spotzer.md'
-  }, {
-    name: 'Contribute',
-    link: 'https://github.com/SoftwareSeniPT/ss-codex'
-  }],
-  savedData: [], // keep the data after all markdowns are compiled
+    }],savedData: [], // keep the data after all markdowns are compiled
   template: {}, // keep template HTML
   checkList: [], // store the items in array
   init: function($) {
@@ -410,6 +341,10 @@ var app = {
     function handleHashChange() {
       var hash = location.hash.substring(1);
       $(document).trigger('changeTopic', [hash]);
+
+      if(hash === "") {
+        return false;
+      }
 
       // Open the submenu
       if (jQuery("[data-id=" + hash + "]").length) {
