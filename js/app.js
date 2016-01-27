@@ -17,7 +17,15 @@ var app = {
     markdowns: [{
         name: 'Getting Started',
         file: 'getting-started.md'
-    }, 
+    },
+    {
+        name: 'Workflows',
+        file: 'workflows.md'
+    },
+    {
+        name: 'Design',
+        file: 'design.md'
+    },
     {
         name: 'Project Spotzer',
         file: 'project-spotzer.md'
@@ -26,10 +34,7 @@ var app = {
         name: 'Rate Card',
         file: 'ratecard.md'
     },
-    {
-        name: 'Workflows',
-        file: 'workflows.md'
-    },
+
     {
         name: 'Contribute',
         link: 'https://github.com/SoftwareSeniPT/spotzer-codex'
