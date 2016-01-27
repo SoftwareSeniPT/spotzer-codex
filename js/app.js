@@ -31,6 +31,14 @@ var app = {
         file: 'front-end.md'
     },
     {
+        name: 'Back End',
+        file: 'back-end.md'
+    },
+    {
+        name: 'QA',
+        file: 'qa.md'
+    },
+    {
         name: 'Project List',
         file: 'project-list.md'
     },
