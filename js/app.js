@@ -27,6 +27,10 @@ var app = {
         file: 'design.md'
     },
     {
+        name: 'Front End',
+        file: 'front-end.md'
+    },
+    {
         name: 'Project List',
         file: 'project-list.md'
     },
