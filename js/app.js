@@ -27,8 +27,8 @@ var app = {
         file: 'design.md'
     },
     {
-        name: 'Project Spotzer',
-        file: 'project-spotzer.md'
+        name: 'Project List',
+        file: 'project-list.md'
     },
     {
         name: 'Rate Card',
