@@ -27,7 +27,7 @@ There are 2 ways to edit this page. All of them require you to create a pull req
 * After finish editing file, save it by click on "Propose File Change". 
 * Admin will review it and merge it to the documentation
 
-### Fork the Repository
+### 2. Fork the Repository
 
 ## How to add top level category
 Top level category only can be added by admin. So if you want a new top level category, request it to the admin and admin will create the category.
