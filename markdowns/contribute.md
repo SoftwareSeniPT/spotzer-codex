@@ -5,7 +5,7 @@ This is styleguide for contribution
 
 There are 2 ways to edit this page. All of them require you to create a pull request to admin, so that admin can review it and merge it to the documentation.
 
-### 1. Edit page directly from Github.
+### 1. Edit directly from Github.
 * If you have github account, go to [https://github.com/SoftwareSeniPT/spotzer-codex](https://github.com/SoftwareSeniPT/spotzer-codex) 
 
 * All top level category are located on "markdown" folder. So, to edit the content, open the folder.
@@ -26,6 +26,8 @@ There are 2 ways to edit this page. All of them require you to create a pull req
 
 * After finish editing file, save it by click on "Propose File Change". 
 * Admin will review it and merge it to the documentation
+
+### Fork the Repository
 
 ## How to add top level category
 Top level category only can be added by admin. So if you want a new top level category, request it to the admin and admin will create the category.
