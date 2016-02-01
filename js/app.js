@@ -49,7 +49,7 @@ var app = {
 
     {
         name: 'Contribute',
-        link: 'https://github.com/SoftwareSeniPT/spotzer-codex'
+        file: 'contribute.md'
     }],savedData: [], // keep the data after all markdowns are compiled
   template: {}, // keep template HTML
   checkList: [], // store the items in array
