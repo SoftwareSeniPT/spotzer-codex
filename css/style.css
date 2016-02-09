@@ -225,7 +225,7 @@ table tr:nth-child(odd) {
 }
 
 table tr:nth-child(even) {
-    background-color: #f8f8f8;
+    background-color: #eaf4f3;
 }
 
 #search-form .search-input {
