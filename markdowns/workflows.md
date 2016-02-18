@@ -1,7 +1,7 @@
 # Workflows 
 
-## Spotzer Website Build Workflow
-<img src="/images/Process Diagram v4 - QA Revised.png"/>
+## SoftwareSeni / Spotzer Engagement Model
+<img src="/images/SS-Spotzer Engagement Model.jpg"/>
 ### Preparation
 * SoftwareSeni Project Manager (PM) will communicate with Spotzer at the beginning of the project to discuss the Project requirements.
  * Adjustments to the theme (whether quote is needed)
@@ -110,3 +110,6 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 
 ## From Brief to Deployement
 <img src="/images/From%20Brief%20to%20Deployment%20-%20Diagram.png" align"center"/>
+
+## Spotzer Website Build Workflow
+<img src="/images/Process Diagram v4 - QA Revised.png"/>
