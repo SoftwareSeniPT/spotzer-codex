@@ -1,6 +1,6 @@
 # Workflows 
 
-## SoftwareSeni / Spotzer Engagement Model
+## SS / Spotzer Engagement Model
 <img src="/images/SS-Spotzer Engagement Model.jpg"/>
 ### Preparation
 * SoftwareSeni Project Manager (PM) will communicate with Spotzer at the beginning of the project to discuss the Project requirements.
