@@ -67,7 +67,7 @@ Collateral will be added to Dropbox so the SS PM can collect what is needed to a
 * Complete tests using checklist include old bug follow-up to ensure all bugs have been fixed.
 * Decide whether site is ready to be Launched to the live site or not.
 
-### 6. Delivering & Feedback
+### 6. Delivery & Feedback
 #### SS Deliver the Work
 * PM will perform a final check across the website and decide whether it is ready to be delivered to Spotzer
 * PM will deliver the project to Spotzer
