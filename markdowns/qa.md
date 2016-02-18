@@ -1,7 +1,7 @@
 # QA Process
 
 ## QA Site (Functionality and design)
-* Do QA using this <a href="https://docs.google.com/spreadsheets/d/1TLfQargd3PyDfo1in9S-v9bialJa27pDPleI8aoNS14/edit#gid=1530176155">checklist</a>
+* Will do QA using this <a href="https://docs.google.com/spreadsheets/d/1TLfQargd3PyDfo1in9S-v9bialJa27pDPleI8aoNS14/edit#gid=1530176155">checklist</a>
 * Check all site functions meet the requirements as per project brief
 * Check all theme adjustment based on mockups and/or wireframes
 * Check the site in the following browsers Internet Explorer (IE) 10 +, Firefox, Google Chrome across normal desktop computers.
