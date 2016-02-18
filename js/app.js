@@ -28,11 +28,11 @@ var app = {
         file: 'quote-process.md'
     },
 
-    {
+  /*  {
         name: 'Invoice process',
         file: 'invoice-process.md'
     },
-
+*/
     {
         name: 'QA',
         file: 'qa.md'
