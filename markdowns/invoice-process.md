@@ -17,7 +17,7 @@
 
 ### The process for Invoices are:
 
-**<div class"note">When a site is “linked” to the client (first draft delivered to client)</div>**
+<div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
 
 * SDM can then add the project to the Invoice Document here. (A “link” site is the first draft delivered to client). Data can be retrieved from the Document here. You will need to create 1 Document for 1 month.
 * Careful not to change to much, as it is using predefined scripts.
