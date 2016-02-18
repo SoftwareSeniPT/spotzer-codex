@@ -22,7 +22,7 @@ var app = {
         name: 'Workflows',
         file: 'workflows.md'
     },
-    {
+/*    {
         name: 'Design',
         file: 'design.md'
     },
@@ -34,6 +34,7 @@ var app = {
         name: 'Back End',
         file: 'back-end.md'
     },
+*/
     {
         name: 'QA',
         file: 'qa.md'
@@ -47,10 +48,10 @@ var app = {
         file: 'ratecard.md'
     },
 
-    {
+ /*   {
         name: 'Contribute',
         file: 'contribute.md'
-    }],savedData: [], // keep the data after all markdowns are compiled
+    }*/],savedData: [], // keep the data after all markdowns are compiled
   template: {}, // keep template HTML
   checkList: [], // store the items in array
   init: function($) {
