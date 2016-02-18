@@ -22,44 +22,33 @@ var app = {
         name: 'Workflows',
         file: 'workflows.md'
     },
-/*    {
-        name: 'Design',
-        file: 'design.md'
-    },
-    {
-        name: 'Front End',
-        file: 'front-end.md'
-    },
-    {
-        name: 'Back End',
-        file: 'back-end.md'
-    },
-*/
+
     {
         name: 'Quote Process',
         file: 'quote-process.md'
     },
+
     {
         name: 'Invoice process',
         file: 'invoice-process.md'
     },
-        {
+
+    {
         name: 'QA',
         file: 'qa.md'
     },
+
     {
         name: 'Project List',
         file: 'project-list.md'
     },
+
     {
         name: 'Rate Card',
         file: 'ratecard.md'
     },
-    }
- /*   {
-        name: 'Contribute',
-        file: 'contribute.md'
-    }*/],savedData: [], // keep the data after all markdowns are compiled
+
+    ],savedData: [], // keep the data after all markdowns are compiled
   template: {}, // keep template HTML
   checkList: [], // store the items in array
   init: function($) {
