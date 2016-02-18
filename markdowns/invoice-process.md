@@ -2,25 +2,25 @@
 
 ## Introduction
 What we invoice to client:
-New site
-This is added to the invoice on the first site draft delivery. We call it (LINK)
-Full time resources
-If staff is requested for specific work, outside In production work.
-Add-ons
-Based on Quote request from Client. Using this Form
-It could be also extra work for a project in Production
-Adjustments to Live Sites
-Based on Quote request from Client. Using this Form
-Hosting / Migration
-If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
-Migration is an action of moving one site from a server to another.
+* New site
+  * This is added to the invoice on the first site draft delivery. We call it (LINK)
+* Full time resources
+  * If staff is requested for specific work, outside In production work.
+* Add-ons
+  * Based on Quote request from Client. Using this Form
+  * It could be also extra work for a project in Production
+* Adjustments to Live Sites
+  * Based on Quote request from Client. Using this Form
+* Hosting / Migration
+    * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
+    * Migration is an action of moving one site from a server to another.
 
 The process for Invoices are:
 
-When a site is “linked” to the client (first draft delivered to client)
+* When a site is “linked” to the client (first draft delivered to client)
 
 SDM can then add the project to the Invoice Document here. (A “link” site is the first draft delivered to client). Data can be retrieved from the Document here. You will need to create 1 Document for 1 month.
-Careful not to change to much, as it is using predefined scripts.
+* Careful not to change to much, as it is using predefined scripts.
 
 SDM can update it later, if any new work is done within the same month, otherwise, add it on the next month as an Add-ons.
 On the Out of Scope are (also known as Supplements). If you need to add extra rows, make sure that the total (AUD) catch the new cells as well.
