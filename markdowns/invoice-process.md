@@ -1,31 +1,32 @@
 # Invoice Process
 
 ## Introduction
-What we invoice to client:
+### What we invoice to client:
 * New site
   * This is added to the invoice on the first site draft delivery. We call it (LINK)
 * Full time resources
   * If staff is requested for specific work, outside In production work.
 * Add-ons
-  * Based on Quote request from Client. Using this Form
+  * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0">Form</a>
   * It could be also extra work for a project in Production
 * Adjustments to Live Sites
-  * Based on Quote request from Client. Using this Form
+  * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0">Form</a>
 * Hosting / Migration
     * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
     * Migration is an action of moving one site from a server to another.
 
-The process for Invoices are:
+### The process for Invoices are:
 
-* When a site is “linked” to the client (first draft delivered to client)
+**<div class"note">When a site is “linked” to the client (first draft delivered to client)</div>**
 
-SDM can then add the project to the Invoice Document here. (A “link” site is the first draft delivered to client). Data can be retrieved from the Document here. You will need to create 1 Document for 1 month.
+* SDM can then add the project to the Invoice Document here. (A “link” site is the first draft delivered to client). Data can be retrieved from the Document here. You will need to create 1 Document for 1 month.
 * Careful not to change to much, as it is using predefined scripts.
 
-SDM can update it later, if any new work is done within the same month, otherwise, add it on the next month as an Add-ons.
-On the Out of Scope are (also known as Supplements). If you need to add extra rows, make sure that the total (AUD) catch the new cells as well.
-There are about 30 project slots. If you need to add more, remember to add the cell ID to the calculation scripts on C2 and D2.
-When the project is finished (Live). 
+* SDM can update it later, if any new work is done within the same month, otherwise, add it on the next month as an Add-ons.
+* On the Out of Scope are (also known as Supplements). If you need to add extra rows, make sure that the total (AUD) catch the new cells as well.
+* There are about 30 project slots. If you need to add more, remember to add the cell ID to the calculation scripts on C2 and D2.
+ 
+**When the project is finished (Live).**
 
 SDM to ask the Managers, which projects had some extra work, and add it to the Project invoice. This could also happen within the project development, so make sure the Managers keep you informed.
 Make sure to check the actual number of pages, that was created for the project by logging in on the WP-Admin of  the site. And add the extra pages on the Out of Scope. (OoS are Extra pages from the original brief, or extra layout from the original basic package)
