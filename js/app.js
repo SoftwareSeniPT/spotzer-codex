@@ -55,7 +55,7 @@ var app = {
         name: 'Rate Card',
         file: 'ratecard.md'
     },
-
+    }
  /*   {
         name: 'Contribute',
         file: 'contribute.md'
