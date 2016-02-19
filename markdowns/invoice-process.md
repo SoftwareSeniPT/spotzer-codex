@@ -1,6 +1,5 @@
 # Invoice Process
 <img src="/images/Summary-invoice.png">
-
 ## What we invoice to client
 * New site
   * This is added to the invoice on the first site draft delivery. We call it (LINK)
