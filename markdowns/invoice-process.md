@@ -5,11 +5,11 @@
 * New site
   * This is added to the invoice on the first site draft delivery. We call it (LINK)
    *  A new production
-    *  Yellow Pages
-    *  ARM
-    *  Others
+     *  Yellow Pages
+     *  ARM
+     *  Others
    *  A Joomla to Wordpress (J2WP)
-    *  Yellow Pages
+     *  Yellow Pages
 * Full time resources
   * If staff is requested for specific work, outside In production work.
 * Add-ons
