@@ -23,7 +23,7 @@
   * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
   * Migration is an action of moving one site from a server to another.
     
- <div class="note">“link” is the first draft delivered to client)</div>
+ <div class="note">When a site is “linked” to the client (first draft delivered to client, after it has passed all internal QA</div>
 
 ### The process for billing Invoices
 
@@ -45,6 +45,6 @@
  * SS Input Link Sites (where projects are added when it is link. Only Specific Managers can add projects at the moment. SS internal)
  * functions (this is where all information for pricing is stored, and collected. SS internal)
  
- <div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
+ <div class="note">When a site is “linked” to the client (first draft delivered to client, after it has passed all internal QA</div>
 
 
