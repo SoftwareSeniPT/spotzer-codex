@@ -1,7 +1,6 @@
 # Invoice Process
 
-## Introduction
-### What we invoice to client
+## What we invoice to client
 * New site
   * This is added to the invoice on the first site draft delivery. We call it (LINK)
    *  A new production
@@ -25,7 +24,7 @@
     
  <div class="note">When a site is “linked” to the client (first draft delivered to client, after it has passed all internal QA.</div>
 
-### The process for billing Invoices
+## The process for billing Invoices
 
 * When a project is "link", and sent to client, SDM/PM will then add the project to the Billing Invoice Document for the actual month of delivery. A New Billing document will be created for each month.
 * Only specific Manager in SoftwareSeni is allowed to edit, as it has complex scripting.
