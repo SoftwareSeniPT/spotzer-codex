@@ -23,7 +23,7 @@ The daily report is sent every end of working Day (exclude weekend), by a Softwa
 [Spotzer AU / EU] Daily Report - Feb 3, 2016
 
 ## The content
-the report consist of 2 parts. 
+The report consist of 2 parts. 
 * The quick read, for a quick status of each projects on the go, or in hand by SoftwareSeni. See sample below.
 
 **NOTE :** N / A
