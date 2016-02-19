@@ -20,10 +20,10 @@
   * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0">Form</a>
   * or Based on a ticket received on our Helpdesk system (FlexiPeople)
 * Hosting / Migration
-    * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
-    * Migration is an action of moving one site from a server to another.
+  * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
+  * Migration is an action of moving one site from a server to another.
     
- <div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
+ <div class="note">“link” is the first draft delivered to client)</div>
 
 ### The process for billing Invoices
 
