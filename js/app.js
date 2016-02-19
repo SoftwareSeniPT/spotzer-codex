@@ -47,6 +47,11 @@ var app = {
         name: 'Rate Card',
         file: 'ratecard.md'
     },
+    
+     {
+        name: 'Daily Report',
+        file: 'daily-report.md'
+    },
 
     ],savedData: [], // keep the data after all markdowns are compiled
   template: {}, // keep template HTML
