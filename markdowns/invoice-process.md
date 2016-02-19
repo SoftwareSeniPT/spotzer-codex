@@ -4,6 +4,12 @@
 ### What we invoice to client
 * New site
   * This is added to the invoice on the first site draft delivery. We call it (LINK)
+   *  A new production
+    *  Yellow Pages
+    *  ARM
+    *  Others
+   *  A Joomla to Wordpress (J2WP)
+    *  Yellow Pages
 * Full time resources
   * If staff is requested for specific work, outside In production work.
 * Add-ons
@@ -14,6 +20,8 @@
 * Hosting / Migration
     * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
     * Migration is an action of moving one site from a server to another.
+    
+ <div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
 
 ### The process for billing Invoices
 
