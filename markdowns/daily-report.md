@@ -77,5 +77,5 @@ The Table has Icons that represent each Project Categories, as well as the resel
 |  Wordpress | <img src="/images/Wordpress-icon_32px.png"> | ARM | <img src="/images/DMS-icon_32px.png"> |  |  |
 |  J2WP | <img src="/images/J2WP-icon_32px.png"> |  |  |  |  |
 
-### Live Report
+## Live Report
 The Daily report is often updated, and available online <a href="https://docs.google.com/spreadsheets/d/1LtI5cHpiCCkt-nXYCn0OdPxI7VXT9ApXly_-whUMZHQ/edit#gid=2124915263" target="_blank">HERE</a>
