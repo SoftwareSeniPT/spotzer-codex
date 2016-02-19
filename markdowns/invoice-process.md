@@ -1,7 +1,7 @@
 # Invoice Process
 
 ## Introduction
-### What we invoice to client:
+### What we invoice to client
 * New site
   * This is added to the invoice on the first site draft delivery. We call it (LINK)
 * Full time resources
@@ -15,11 +15,9 @@
     * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
     * Migration is an action of moving one site from a server to another.
 
-### The process for Invoices are:
+### The process for billing Invoices
 
-<div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
-
-* SDM/PM will then add the project to the Invoice Document for the actual month of delivery. A New Billing document will be created for each month.
+* When a project is "link", and sent to client, SDM/PM will then add the project to the Billing Invoice Document for the actual month of delivery. A New Billing document will be created for each month.
 * Only specific Manager in SoftwareSeni is allowed to edit, as it has complex scripting.
 
 * SDM/PM can update it later, if any new work is done within the same month, otherwise, it will be added on the next month as an Add-ons.
@@ -36,5 +34,7 @@
  * Detailed Delivery (A more detailed list of the sites "link" during the month)
  * SS Input Link Sites (where projects are added when it is link. Only Specific Managers can add projects at the moment. SS internal)
  * functions (this is where all information for pricing is stored, and collected. SS internal)
+ 
+ <div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
 
 
