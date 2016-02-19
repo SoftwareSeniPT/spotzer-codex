@@ -25,6 +25,7 @@ The daily report is sent every end of working Day (exclude weekend), by a Softwa
 ## The content
 The report consist of 2 parts. 
 * The quick read, for a quick status of each projects on the go, or in hand by SoftwareSeni. See sample below.
+* The Table view. for more detailed information, such as project status, Notes, tasks left etc.
 
 **NOTE :** N / A
 
@@ -62,9 +63,6 @@ The report consist of 2 parts.
 * FB (Feedbacks) = 0
 * Maintenance / Revision = 0
 * Quotes = N / A
-
-
-* The Table view. for more detailed information, such as project status, Notes, tasks left etc.
 
 The Table has Icons that represent each Project Categories, as well as the reseller.
 
