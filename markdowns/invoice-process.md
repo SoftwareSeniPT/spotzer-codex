@@ -1,4 +1,5 @@
 # Invoice Process
+<img src="/images/Summary-invoice.png">
 
 ## What we invoice to client
 * New site
@@ -12,11 +13,11 @@
 * Full time resources
   * If staff is requested for specific work, outside In production work.
 * Add-ons
-  * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0">Form</a>
+  * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0" target="_blank">Form</a>
   * or Based on a ticket received on our Helpdesk system (FlexiPeople)
   * It could be also extra work for a project in Production
 * Adjustments to Live Sites
-  * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0">Form</a>
+  * Based on Quote request from Client. Using this <a href="https://docs.google.com/spreadsheets/d/1hEBwBKLb-iD5bb2z0GqFmUXoR1-Ot4iTf7A5-lZKdmI/edit#gid=0" target="_blank">Form</a>
   * or Based on a ticket received on our Helpdesk system (FlexiPeople)
 * Hosting / Migration
   * If a site is hosted on one of our server, we start charging them from the moment the A Record redirection is done.
