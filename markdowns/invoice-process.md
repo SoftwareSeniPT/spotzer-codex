@@ -19,13 +19,11 @@
 
 <div class="note">When a site is “linked” to the client (first draft delivered to client)</div>
 
-* SDM can then add the project to the Invoice Document here. (A “link” site is the first draft delivered to client). Data can be retrieved from the Document here. You will need to create 1 Document for 1 month.
-* Careful not to change to much, as it is using predefined scripts.
+* SDM/PM will then add the project to the Invoice Document for the actual month of delivery. A New Billing document will be created for each month.
+* Only specific Manager in SoftwareSeni is allowed to edit, as it has complex scripting.
 
-* SDM can update it later, if any new work is done within the same month, otherwise, add it on the next month as an Add-ons.
-* On the Out of Scope are (also known as Supplements). If you need to add extra rows, make sure that the total (AUD) catch the new cells as well.
-* There are about 30 project slots. If you need to add more, remember to add the cell ID to the calculation scripts on C2 and D2.
- 
+* SDM/PM can update it later, if any new work is done within the same month, otherwise, it will be added on the next month as an Add-ons.
+
 **When the project is finished (Live).**
 
 SDM to ask the Managers, which projects had some extra work, and add it to the Project invoice. This could also happen within the project development, so make sure the Managers keep you informed.
