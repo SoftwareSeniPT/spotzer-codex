@@ -3,7 +3,7 @@ Spotzer Guide introduction
 
 ## Introduction
 
-This Codex is a living document that will be used in Spotzer Projects that SoftwareSeni develop. The goal is to develop a single underlying system that allows for unified best practice across projects and educate ourselves by learning from the experience.
+This Codex is a living document that is used for Spotzer AU and EU to see. The goal is to develop a single underlying system that allows for unified documents and procedure into one place.
 
-This Spotzer Codex is open project, meaning you can directly impact its evolution by filing issues and submitting pull requests. This is as much your tool as it is ours, and we look forward to collaborating with staff and partners on making it even better.
+This Spotzer Codex is to be updated when changes occured, or new system is implemented.
 
