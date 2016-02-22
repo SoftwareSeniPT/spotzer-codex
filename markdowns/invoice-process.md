@@ -26,12 +26,12 @@
 
 ## The process for billing Invoices
 
+<img src="/images/Summary-invoice.png">
+
 * When a project is "link", and sent to client, SDM/PM will then add the project to the Billing Invoice Document for the actual month of delivery. A New Billing document will be created for each month.
 * Only specific Manager in SoftwareSeni is allowed to edit, as it has complex scripting.
 
 * SDM/PM can update it later, if any new work is done within the same month, otherwise, it will be added on the next month as an Add-ons.
-
-<img src="/images/Summary-invoice.png">
 
 * The Accountant will then send the Billing Invoice before the 5th of the next month.
 * The billing invoice breakdown
