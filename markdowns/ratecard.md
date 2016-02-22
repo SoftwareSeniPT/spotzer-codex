@@ -52,7 +52,8 @@
 |  **Item / Description** | **Software Seni AUD ** |
 |  ------ | :------ |
 |  Hosting | $8 per month |
-|  Migration | $11 per month |
+|  Migration | $11 per site migrated (subject to changed, based on process duration) |
+
 
 
 ## Spotzer EU 
