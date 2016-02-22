@@ -1,3 +1,6 @@
+<?php
+echo "<p>Copyright &copy; 1999-" . date("Y") . " W3Schools.com</p>";
+?>
 # Spotzer Rate Card
 ## Spotzer AU 
 <img src="/images/spotzerAU_200px.png" align"left"/>
