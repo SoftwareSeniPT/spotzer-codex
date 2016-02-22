@@ -2,7 +2,7 @@
 ## Spotzer AU 
 <img src="/images/spotzerAU_200px.png" align"left"/>
 ### Basic Package
-|  **Item / Description** | **Software Seni USD ** |
+|  **Item / Description** | **Software Seni AUD ** |
 |  ------ | :------ |
 |   |  |
 |  Custom/Normal Wordpress 10 Pages (4 layouts) | $420 |
@@ -17,7 +17,7 @@
 |  Note: Excludes any plugin adjustments/creation |  |
 |   |  |
 ### eCommerce
-|  **Item / Description** | **Software Seni USD ** |
+|  **Item / Description** | **Software Seni AUD ** |
 |  ------ | :------ |
 |  Woo Commerce extension with 10 products configured | $650 |
 |  Per eCom product:  | $5 |
@@ -26,19 +26,19 @@
 |  CSV bulk import 501 - 4000 products | $352 |
 |  CSV bulk import 4001+ | $528 |
 |   |  |
-|  Shopify Account/plugin provided | $136 |
+|  Shopify Account/plugin provided | $ |
 |  Shopify Account/plugin not provided | Client should apply |
 |  Shopify styling | Hourly |
 |   |  |
-|  Per page migration:  | $5.25 |
-|  Per 5 - 15 pages migration: Per page | $3.75 |
-|  Per 16 - 40 pages migration: Per page | $3.5 |
-|   |  |
 ### Other Services / Plugins
-|  **Item / Description** | **Software Seni USD ** |
+|  **Item / Description** | **Software Seni AUD ** |
 |  ------ | :------ |
 |  Additional 3 plugins (from list)  | Hourly |
 |   |  |
+|   |  |
+|  Blog - Per page migration:  | $ |
+|  Blog - Per 5 - 15 pages migration: Per page | $ |
+|  Blog - Per 16 - 40 pages migration: Per page | $ |
 |  Any paid version of Woo Themes/ Woo Commerce plugin | Provided by Spotzer |
 |  Production Resources /Hour | $22 |
 |  Pretty permalinks with product names |  |
@@ -49,9 +49,10 @@
 |  8 hours per month:  | just hourly rate above |
 |   |  |
 ### Hosting
-|  **Item / Description** | **Software Seni USD ** |
+|  **Item / Description** | **Software Seni AUD ** |
 |  ------ | :------ |
 |  Hosting | $8 per month |
+|  Migration | $11 per month |
 
 
 ## Spotzer EU 
