@@ -1,7 +1,58 @@
 # Spotzer Rate Card
 ## Spotzer AU 
 <img src="/images/spotzerAU_200px.png" align"left"/>
-### Basic
+### Basic Package
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
+|   |  |
+|  Custom/Normal Wordpress 10 Pages (4 layouts) | $420 |
+|  Custom/Normal Wordpress 20 Pages (4 layouts) | $750 |
+|  Backend in a non English language  | Increases (above) 10% |
+|   |  |
+|  Additional Pages | $7 |
+|  Additional 10 pages | $50 |
+|  Additional 20 pages | $100 |
+|   |  |
+|  Additional Layout (assumes design is provided) | $264 |
+|  Note: Excludes any plugin adjustments/creation |  |
+|   |  |
+### eCommerce
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
+|  Woo Commerce extension with 10 products configured | $650 |
+|  Per eCom product:  | $5 |
+|  Per 10 eCom products:  | $30 |
+|  CSV bulk import 0 - 500 products | $308 |
+|  CSV bulk import 501 - 4000 products | $352 |
+|  CSV bulk import 4001+ | $528 |
+|   |  |
+|  Shopify Account/plugin provided | $136 |
+|  Shopify Account/plugin not provided | Client should apply |
+|  Shopify styling | Hourly |
+|   |  |
+|  Per page migration:  | $5.25 |
+|  Per 5 - 15 pages migration: Per page | $3.75 |
+|  Per 16 - 40 pages migration: Per page | $3.5 |
+|   |  |
+### Other Services / Plugins
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
+|  Additional 3 plugins (from list)  | Hourly |
+|   |  |
+|  Any paid version of Woo Themes/ Woo Commerce plugin | Provided by Spotzer |
+|  Production Resources /Hour | $22 |
+|  Pretty permalinks with product names |  |
+|   |  |
+|  Ongoing site maintenaince edits/updates |  |
+|  By the hour:(minimum 1 hours work) | just hourly rate above |
+|  4 hours per month:  | just hourly rate above |
+|  8 hours per month:  | just hourly rate above |
+|   |  |
+### Hosting
+|  **Item / Description** | **Software Seni USD ** |
+|  ------ | :------ |
+|  Hosting | $8 per month |
+
 
 ## Spotzer EU 
 <img src="/images/spotzerEU_200px.png" align"left"/>
@@ -66,14 +117,6 @@
 |  **Item / Description** | **Software Seni USD ** |
 |  ------ | :------ |
 |  Hosting | 12 per month |
-|  *24/7 Technical Support* |  |
-|  *Daily Backups* |  |
-|  *Firewall* |  |
-|  *Malware Scan* |  |
-|  *Cache technology on the sites* |  |
-|  *SSL Capability* |  |
-|  *CDN option* |  |
-|  *1 click restore and backup* |  |
 
 ### Possible WP Add-ons
 |  **SoftwareSeni - Spotzer EU** |  |
