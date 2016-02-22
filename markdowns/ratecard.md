@@ -1,7 +1,4 @@
 # Spotzer Rate Card
-<?php
-echo "<p>Copyright &copy; 2016-" . date("Y") . " W3Schools.com</p>";
-?>
 ## Spotzer AU 
 <img src="/images/spotzerAU_200px.png" align"left"/>
 ### Basic Package
