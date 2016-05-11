@@ -37,6 +37,12 @@ var app = {
         name: 'QA',
         file: 'qa.md'
     },
+    
+    {
+        name: 'Support',
+        file: 'support.md'
+    },
+
 
     {
         name: 'Project List',
